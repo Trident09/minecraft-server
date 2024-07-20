@@ -80,6 +80,18 @@ Before you begin, ensure you have the following:
 
 ## Start the Server Scripts
 
+To simplify the process of starting the server, you can create a script that automates the steps mentioned above. Below are examples of scripts for Linux, macOS, and Windows that you can use to start the server:
+
+### Linux Script (`server-start-linux.sh`)
+```sh
+./server-start-linux.sh
+```
+
+### macOS Script (`server-start-macos.sh`)
+```sh
+./server-start-macos.sh
+```
+
 ### Linux and macOS Script (`start_server.sh`)
 
 ```sh
@@ -102,7 +114,7 @@ SERVER_IP=$(hostname -I | awk '{print $1}')
 echo "Minecraft server is running at IP: $SERVER_IP"
 ```
 
-### Windows Script (`start_server.bat`)
+### Windows Script (`start_server.bat`) - to run just double click on the file
 
 ```bat
 @echo off
