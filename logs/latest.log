@@ -1,24 +1,55 @@
-[17:41:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:41:44] [ServerMain/INFO]: Loaded 1290 recipes
-[17:41:45] [ServerMain/INFO]: Loaded 1399 advancements
-[17:41:45] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:41:45] [Server thread/INFO]: Loading properties
-[17:41:45] [Server thread/INFO]: Default game type: SURVIVAL
-[17:41:45] [Server thread/INFO]: Generating keypair
-[17:41:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:41:45] [Server thread/INFO]: Using default channel type
-[17:41:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:41:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:41:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:41:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:41:45] [Server thread/INFO]: Preparing level "world"
-[17:41:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:41:45] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[17:41:46] [Server thread/INFO]: Time elapsed: 177 ms
-[17:41:46] [Server thread/INFO]: Done (0.687s)! For help, type "help"
-[17:43:04] [Server thread/INFO]: sallu_bhaiyaboo[/192.168.1.4:61558] logged in with entity id 94 at (-494.7741340188784, 81.0, 693.0621944506335)
-[17:43:04] [Server thread/INFO]: sallu_bhaiyaboo joined the game
-[17:46:48] [Server thread/INFO]: sallu_bhaiyaboo lost connection: Disconnected
-[17:46:48] [Server thread/INFO]: sallu_bhaiyaboo left the game
-[17:47:12] [Server thread/INFO]: sallu_bhaiyaboo[/192.168.1.4:61615] logged in with entity id 1566 at (-379.5511645298572, 64.0, 708.2804108645616)
-[17:47:12] [Server thread/INFO]: sallu_bhaiyaboo joined the game
+[18:10:19] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[18:10:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:10:21] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[18:10:22] [ServerMain/INFO]: Loaded 1290 recipes
+[18:10:22] [ServerMain/INFO]: Loaded 1399 advancements
+[18:10:22] [Server thread/INFO]: Starting minecraft server version 1.21
+[18:10:22] [Server thread/INFO]: Loading properties
+[18:10:22] [Server thread/INFO]: This server is running Paper version 1.21-99-master@f1f01a1 (2024-07-19T19:43:35Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[18:10:22] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 2945ms.
+[18:10:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:10:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:10:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and population gen parallelism of 3 threads
+[18:10:23] [Server thread/INFO]: Default game type: SURVIVAL
+[18:10:23] [Server thread/INFO]: Generating keypair
+[18:10:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:10:23] [Server thread/INFO]: Using default channel type
+[18:10:24] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
+[18:10:24] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
+[18:10:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:10:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:10:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:10:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:10:24] [Server thread/INFO]: Preparing level "world"
+[18:10:24] [Server thread/INFO]: ---- Migration of old nether folder required ----
+[18:10:24] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+[18:10:24] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[18:10:24] [Server thread/INFO]: Attempting to move world/DIM-1 to world_nether/DIM-1...
+[18:10:24] [Server thread/INFO]: Success! To restore nether in the future, simply move world_nether/DIM-1 to world/DIM-1
+[18:10:24] [Server thread/INFO]: ---- Migration of old nether folder complete ----
+[18:10:24] [Server thread/INFO]: ---- Migration of old the_end folder required ----
+[18:10:24] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+[18:10:24] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[18:10:24] [Server thread/INFO]: Attempting to move world/DIM1 to world_the_end/DIM1...
+[18:10:24] [Server thread/INFO]: Success! To restore the_end in the future, simply move world_the_end/DIM1 to world/DIM1
+[18:10:24] [Server thread/INFO]: ---- Migration of old the_end folder complete ----
+[18:10:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:10:24] [Server thread/INFO]: Time elapsed: 486 ms
+[18:10:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:10:26] [Server thread/INFO]: Time elapsed: 1262 ms
+[18:10:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:10:26] [Server thread/INFO]: Time elapsed: 293 ms
+[18:10:26] [Server thread/INFO]: Done preparing level "world" (2.309s)
+[18:10:26] [Server thread/INFO]: Running delayed init tasks
+[18:10:26] [Server thread/INFO]: Done (8.059s)! For help, type "help"
+[18:10:26] [Server thread/INFO]: *************************************************************************************
+[18:10:26] [Server thread/INFO]: This is the first time you're starting this server.
+[18:10:26] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[18:10:26] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[18:10:26] [Server thread/INFO]: *************************************************************************************
+[18:10:26] [Server thread/INFO]: Timings Reset
+[18:10:53] [User Authenticator #0/INFO]: UUID of player Tridentblade09 is f6001e97-76b8-3898-907a-539629420be9
+[18:10:54] [Server thread/INFO]: Tridentblade09 joined the game
+[18:10:54] [Server thread/INFO]: Tridentblade09[/127.0.0.1:60627] logged in with entity id 111 at ([world]29.018084106685684, 72.0, 18.661252986385765)
+[18:11:20] [Server thread/INFO]: Tridentblade09 lost connection: Disconnected
+[18:11:20] [Server thread/INFO]: Tridentblade09 left the game

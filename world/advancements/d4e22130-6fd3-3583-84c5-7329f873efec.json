@@ -8,17 +8,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2024-07-17 02:46:46 +0530",
-      "minecraft:eroded_badlands": "2024-07-17 02:26:16 +0530",
       "minecraft:beach": "2024-07-19 20:11:24 +0530",
-      "minecraft:desert": "2024-07-17 02:45:42 +0530",
       "minecraft:sparse_jungle": "2024-07-19 20:34:38 +0530",
-      "minecraft:jungle": "2024-07-19 20:44:55 +0530",
       "minecraft:lukewarm_ocean": "2024-07-17 02:19:41 +0530",
       "minecraft:river": "2024-07-17 02:38:25 +0530",
       "minecraft:stony_shore": "2024-07-17 02:19:37 +0530",
+      "minecraft:eroded_badlands": "2024-07-17 02:26:16 +0530",
+      "minecraft:desert": "2024-07-17 02:45:42 +0530",
+      "minecraft:jungle": "2024-07-19 20:44:55 +0530",
       "minecraft:savanna": "2024-07-17 02:19:23 +0530",
       "minecraft:bamboo_jungle": "2024-07-19 20:34:53 +0530",
-      "minecraft:plains": "2024-07-17 02:22:33 +0530"
+      "minecraft:wooded_badlands": "2024-07-20 17:58:09 +0530",
+      "minecraft:plains": "2024-07-17 02:22:33 +0530",
+      "minecraft:warm_ocean": "2024-07-20 17:47:53 +0530"
     },
     "done": false
   },
@@ -2813,6 +2815,18 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2024-07-19 20:32:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-07-20 17:51:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-07-20 17:51:08 +0530"
     },
     "done": true
   },
