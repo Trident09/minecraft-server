@@ -43,6 +43,14 @@ Before you begin, ensure you have the following:
      java -Xmx1024M -Xms1024M -jar minecraft_server.1.21.jar
      ```
 
+5. If you wish to run the server with more memory, you can adjust the `-Xmx` and `-Xms` values in the command above. For example, to allocate 2GB of memory, you can use:
+   ```sh
+   java -Xmx2048M -Xms2048M -jar minecraft_server.1.21.jar nogui
+   ```
+    - The `-Xmx` flag sets the maximum memory allocation pool for the Java Virtual Machine (JVM).
+    - The `-Xms` flag sets the initial memory allocation pool for the JVM.
+    - `2048M` can be replaced with the desired amount of memory in megabytes or `2G` for gigabytes.
+
 ## Additional Information
 
 - By downloading and running the Minecraft server software, you agree to the [Minecraft End User License Agreement](https://account.mojang.com/documents/minecraft_eula) and [Privacy Policy](https://go.microsoft.com/fwlink/?LinkId=521839).
