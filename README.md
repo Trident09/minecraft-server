@@ -15,6 +15,9 @@ Before you begin, ensure you have the following:
 
 1. Download the Minecraft server file from the official website or use the link below:
    - [Download minecraft_server.1.21.jar](https://piston-data.mojang.com/v1/objects/450698d1863ab5180c25d7c804ef0fe6369dd1ba/server.jar)
+   
+   Alternatively, you can use PaperMC for better performance and additional features:
+   - [Download paper-1.21-99.jar](https://papermc.io/downloads)
 
 ## Setting Up the Server
 
@@ -24,7 +27,7 @@ Before you begin, ensure you have the following:
    cd MinecraftServer
    ```
 
-2. Move the downloaded `minecraft_server.1.21.jar` file into this directory.
+2. Move the downloaded `minecraft_server.1.21.jar` or `paper-1.21-99.jar` file into this directory.
 
 3. Accept the Minecraft End User License Agreement (EULA).
    - Open a text editor and create a new file named `eula.txt`.
@@ -35,17 +38,32 @@ Before you begin, ensure you have the following:
    - Save and close the file.
 
 4. Run the server with the following command:
-   ```sh
-   java -Xmx1024M -Xms1024M -jar minecraft_server.1.21.jar nogui
-   ```
-   - If you want to start the server with its graphical user interface (GUI), you can leave out the `nogui` part:
+   - For the official Minecraft server:
      ```sh
-     java -Xmx1024M -Xms1024M -jar minecraft_server.1.21.jar
+     java -Xmx1024M -Xms1024M -jar minecraft_server.1.21.jar nogui
      ```
+   - For PaperMC:
+     ```sh
+     java -Xmx1024M -Xms1024M -jar paper-1.21-99.jar nogui
+     ```
+
+   - If you want to start the server with its graphical user interface (GUI), you can leave out the `nogui` part:
+     - For the official Minecraft server:
+       ```sh
+       java -Xmx1024M -Xms1024M -jar minecraft_server.1.21.jar
+       ```
+     - For PaperMC:
+       ```sh
+       java -Xmx1024M -Xms1024M -jar paper-1.21-99.jar
+       ```
 
 5. If you wish to run the server with more memory, you can adjust the `-Xmx` and `-Xms` values in the command above. For example, to allocate 2GB of memory, you can use:
    ```sh
    java -Xmx2048M -Xms2048M -jar minecraft_server.1.21.jar nogui
+   ```
+   or
+   ```sh
+   java -Xmx2048M -Xms2048M -jar paper-1.21-99.jar nogui
    ```
     - The `-Xmx` flag sets the maximum memory allocation pool for the Java Virtual Machine (JVM).
     - The `-Xms` flag sets the initial memory allocation pool for the JVM.
@@ -62,6 +80,7 @@ Before you begin, ensure you have the following:
 - [Minecraft End User License Agreement](https://account.mojang.com/documents/minecraft_eula)
 - [Privacy Policy](https://go.microsoft.com/fwlink/?LinkId=521839)
 - [Verified Servers List](http://aka.ms/verifiedservers)
+- [PaperMC Download](https://papermc.io/downloads)
 
 ## Contributing
 
