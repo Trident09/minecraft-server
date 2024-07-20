@@ -78,6 +78,53 @@ Before you begin, ensure you have the following:
 
 6. Once the server is running, you can connect to it using the IP address `localhost` and join the server.
 
+## Start the Server Scripts
+
+### Linux and macOS Script (`start_server.sh`)
+
+```sh
+#!/bin/bash
+
+# Navigate to the server directory
+cd "$(dirname "$0")"
+
+# Check if eula.txt exists
+if [ ! -f eula.txt ]; then
+  echo "eula=true" > eula.txt
+fi
+
+# Start the server
+java -Xmx1024M -Xms1024M -jar minecraft_server.1.21.jar nogui
+
+# Get the server IP address
+SERVER_IP=$(hostname -I | awk '{print $1}')
+
+echo "Minecraft server is running at IP: $SERVER_IP"
+```
+
+### Windows Script (`start_server.bat`)
+
+```bat
+@echo off
+
+:: Navigate to the server directory
+cd /d %~dp0
+
+:: Check if eula.txt exists
+if not exist eula.txt (
+    echo eula=true > eula.txt
+)
+
+:: Start the server
+java -Xmx1024M -Xms1024M -jar minecraft_server.1.21.jar nogui
+
+:: Get the server IP address
+for /f "tokens=2 delims=[]" %%A in ('ping -4 -n 1 %COMPUTERNAME% ^| findstr /r /c:"\[[0-9][0-9]*\.[0-9][0-9]*\.[0-9][0-9]*\.[0-9][0-9]*\]"') do set SERVER_IP=%%A
+
+echo Minecraft server is running at IP: %SERVER_IP%
+pause
+```
+
 ## Additional Information
 
 - By downloading and running the Minecraft server software, you agree to the [Minecraft End User License Agreement](https://account.mojang.com/documents/minecraft_eula) and [Privacy Policy](https://go.microsoft.com/fwlink/?LinkId=521839).
