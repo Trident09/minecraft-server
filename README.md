@@ -56,6 +56,8 @@ Before you begin, ensure you have the following:
        ```sh
        java -Xmx1024M -Xms1024M -jar paper-1.21-99.jar
        ```
+    - The server will start up and generate the necessary files and folders in the directory.
+    - For Windows users, you can use the provided `start.bat` script to start the server with the appropriate memory settings (Provided in the repository).
 
 5. If you wish to run the server with more memory, you can adjust the `-Xmx` and `-Xms` values in the command above. For example, to allocate 2GB of memory, you can use:
    ```sh
@@ -68,6 +70,13 @@ Before you begin, ensure you have the following:
     - The `-Xmx` flag sets the maximum memory allocation pool for the Java Virtual Machine (JVM).
     - The `-Xms` flag sets the initial memory allocation pool for the JVM.
     - `2048M` can be replaced with the desired amount of memory in megabytes or `2G` for gigabytes.
+
+    - **Note:** Make sure you have enough memory available on your system to allocate to the server.
+    - **Note:** The server will take some time to start up, especially the first time you run it.
+    - **Note:** If you encounter any errors, make sure you have Java installed and configured correctly.
+    - **Note:** If you are running the server on a remote machine, you can use tools like `screen` or `tmux` to keep the server running in the background.
+
+6. Once the server is running, you can connect to it using the IP address `localhost` and join the server.
 
 ## Additional Information
 
