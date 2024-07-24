@@ -16,6 +16,7 @@
       "minecraft:ocean": "2024-07-21 14:42:27 +0000",
       "minecraft:windswept_hills": "2024-07-21 14:43:23 +0000",
       "minecraft:bamboo_jungle": "2024-07-19 15:04:10 +0000",
+      "minecraft:wooded_badlands": "2024-07-23 16:03:56 +0000",
       "minecraft:warm_ocean": "2024-07-20 12:08:58 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-07-19 15:49:56 +0000",
       "minecraft:badlands": "2024-07-20 17:42:29 +0000",
@@ -71,6 +72,7 @@
       "minecraft:pillager": "2024-07-21 12:12:06 +0000",
       "minecraft:skeleton": "2024-07-18 19:38:22 +0000",
       "minecraft:phantom": "2024-07-19 11:59:25 +0000",
+      "minecraft:zombified_piglin": "2024-07-23 12:22:02 +0000",
       "minecraft:witch": "2024-07-18 19:19:11 +0000",
       "minecraft:wither_skeleton": "2024-07-20 21:14:36 +0000",
       "minecraft:husk": "2024-07-19 12:21:10 +0000",
@@ -3887,6 +3889,60 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-07-22 14:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-07-23 08:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-07-23 08:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-07-23 08:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-07-23 08:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-07-23 08:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-07-23 14:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-07-23 14:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2024-07-23 15:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-07-23 15:08:22 +0000"
     },
     "done": true
   },

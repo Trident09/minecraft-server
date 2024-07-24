@@ -20,7 +20,10 @@
       "minecraft:desert": "2024-07-16 21:47:00 +0000",
       "minecraft:deep_dark": "2024-07-21 12:26:56 +0000",
       "minecraft:savanna": "2024-07-16 20:49:31 +0000",
-      "minecraft:plains": "2024-07-16 20:49:58 +0000"
+      "minecraft:bamboo_jungle": "2024-07-23 15:28:39 +0000",
+      "minecraft:plains": "2024-07-16 20:49:58 +0000",
+      "minecraft:warm_ocean": "2024-07-23 15:28:47 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-07-23 15:26:10 +0000"
     },
     "done": false
   },
@@ -2928,6 +2931,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2024-07-21 19:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-07-23 15:22:51 +0000"
     },
     "done": true
   },

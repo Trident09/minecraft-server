@@ -1,104 +1,74 @@
-[17:41:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:41:53] [ServerMain/INFO]: Loaded 1290 recipes
-[17:41:54] [ServerMain/INFO]: Loaded 1399 advancements
-[17:41:54] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:41:54] [Server thread/INFO]: Loading properties
-[17:41:54] [Server thread/INFO]: This server is running Paper version 1.21-99-master@f1f01a1 (2024-07-19T19:43:35Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[17:41:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:41:55] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:41:56] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[17:41:56] [Server thread/INFO]: Default game type: SURVIVAL
-[17:41:56] [Server thread/INFO]: Generating keypair
-[17:41:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:41:56] [Server thread/INFO]: Using epoll channel type
-[17:41:56] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:41:56] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:41:57] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[17:41:59] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[17:41:59] [Server thread/INFO]: [floodgate] Took 2,677ms to boot Floodgate
-[17:41:59] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
-[17:41:59] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
-[17:42:02] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[17:42:02] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[17:42:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:42:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:42:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:42:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:42:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:42:02] [Server thread/INFO]: Preparing level "world"
-[17:42:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:42:04] [Server thread/INFO]: Time elapsed: 1929 ms
-[17:42:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:42:04] [Server thread/INFO]: Time elapsed: 290 ms
-[17:42:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:42:05] [Server thread/INFO]: Time elapsed: 137 ms
-[17:42:05] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[17:42:06] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
-[17:42:06] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[17:42:06] [Server thread/INFO]: [Geyser-Spigot] 
-[17:42:06] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-b612 (git-master-8fd99e1)
-[17:42:06] [Server thread/INFO]: [Geyser-Spigot] 
-[17:42:06] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[17:42:16] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
-[17:42:16] [Server thread/INFO]: [Geyser-Spigot] Done (9.888s)! Run /geyser help for help!
-[17:42:16] [Server thread/INFO]: Done preparing level "world" (14.706s)
-[17:42:16] [Server thread/INFO]: Running delayed init tasks
-[17:42:16] [Server thread/INFO]: Done (31.981s)! For help, type "help"
-[17:42:16] [Server thread/INFO]: Timings Reset
-[17:42:32] [User Authenticator #0/INFO]: UUID of player Tridentblade09 is f6001e97-76b8-3898-907a-539629420be9
-[17:42:33] [Server thread/INFO]: Tridentblade09 joined the game
-[17:42:33] [Server thread/INFO]: Tridentblade09[/106.215.95.94:11893] logged in with entity id 208 at ([world]15.499526812460081, 77.0, -10.801013600039)
-[17:42:49] [User Authenticator #0/INFO]: UUID of player sallu_bhaiyaboo is d4e22130-6fd3-3583-84c5-7329f873efec
-[17:42:49] [Server thread/INFO]: sallu_bhaiyaboo joined the game
-[17:42:49] [Server thread/INFO]: sallu_bhaiyaboo[/106.215.95.94:22823] logged in with entity id 383 at ([world]56.41574573370629, 66.37271525405107, -9.988118685541645)
-[17:54:06] [Server thread/INFO]: Tridentblade09 issued server command: /gamerule randomTickSpeed 3
-[17:54:06] [Server thread/INFO]: [Tridentblade09: Gamerule randomTickSpeed is now set to: 3]
-[17:56:10] [Server thread/INFO]: Tridentblade09 issued server command: /locate structure minecraft:stronghold
-[17:56:10] [Server thread/INFO]: Locating element minecraft:stronghold took 14 ms
-[17:58:26] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo 1296 120 -480
-[17:58:26] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to 1296.500000, 120.000000, -479.500000]
-[17:59:50] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo 1296 400 -480
-[17:59:50] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to 1296.500000, 400.000000, -479.500000]
-[17:59:55] [Server thread/INFO]: sallu_bhaiyaboo fell from a high place
-[18:00:06] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo 1296 200 -480
-[18:00:06] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to 1296.500000, 200.000000, -479.500000]
-[18:00:08] [Server thread/INFO]: sallu_bhaiyaboo fell from a high place
-[18:00:14] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo 1296 1500 -480
-[18:00:14] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to 1296.500000, 1500.000000, -479.500000]
-[18:00:21] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo 1296 150 -480
-[18:00:21] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to 1296.500000, 150.000000, -479.500000]
-[18:00:22] [Server thread/INFO]: sallu_bhaiyaboo fell from a high place
-[18:00:29] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo 1296 150 -480
-[18:00:29] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to 1296.500000, 150.000000, -479.500000]
-[18:00:39] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo 1296 130 -480
-[18:00:39] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to 1296.500000, 130.000000, -479.500000]
-[18:01:30] [Server thread/INFO]: Tridentblade09 issued server command: /tp Tridentblade09 sallu_bhaiyaboo
-[18:01:30] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
-[18:19:21] [Server thread/INFO]: sallu_bhaiyaboo tried to swim in lava
-[18:20:58] [Server thread/INFO]: Tridentblade09 lost connection: Disconnected
-[18:20:58] [Server thread/INFO]: Tridentblade09 left the game
-[18:21:03] [User Authenticator #1/INFO]: UUID of player Tridentblade09 is f6001e97-76b8-3898-907a-539629420be9
-[18:21:04] [Server thread/INFO]: Tridentblade09 joined the game
-[18:21:04] [Server thread/INFO]: Tridentblade09[/106.215.95.94:13444] logged in with entity id 7692 at ([world_nether]7.535169930880931, 32.0, -18.812955742912234)
-[18:32:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Tridentblade09> sxdf
-[18:32:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Tridentblade09> hd
-[18:32:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Tridentblade09> hsde
-[18:32:32] [Async Chat Thread - #0/INFO]: [Not Secure] <Tridentblade09> hd
-[19:01:01] [Server thread/INFO]: Tridentblade09 lost connection: Disconnected
-[19:01:01] [Server thread/INFO]: Tridentblade09 left the game
-[19:28:12] [User Authenticator #2/INFO]: UUID of player kushagra is 5f84917c-8621-385d-a568-a5e31b1ad768
-[19:28:12] [Server thread/INFO]: Disconnecting kushagra (/122.162.150.169:16709): You are not whitelisted on this server!
-[19:28:12] [Server thread/INFO]: kushagra (/122.162.150.169:16709) lost connection: You are not whitelisted on this server!
-[19:30:31] [User Authenticator #3/INFO]: UUID of player Tridentblade09 is f6001e97-76b8-3898-907a-539629420be9
-[19:30:32] [Server thread/INFO]: Tridentblade09 joined the game
-[19:30:32] [Server thread/INFO]: Tridentblade09[/106.215.95.94:13663] logged in with entity id 20444 at ([world]49.69999998807907, 69.5625, -21.78343398814733)
-[19:31:15] [Server thread/INFO]: Tridentblade09 issued server command: /whitelist add kushagra
-[19:31:15] [Server thread/INFO]: [Tridentblade09: Added kushagra to the whitelist]
-[19:31:36] [Server thread/INFO]: Tridentblade09 issued server command: /whitelist
-[19:31:43] [Server thread/INFO]: Tridentblade09 issued server command: /whitelist list
-[19:32:16] [Server thread/INFO]: Tridentblade09 lost connection: Disconnected
-[19:32:16] [Server thread/INFO]: Tridentblade09 left the game
-[20:07:23] [Server thread/INFO]: Villager Villager['Villager'/8156, uuid='94414e98-fd6e-4f44-beae-42ff2442d357', l='ServerLevel[world]', x=51.53, y=65.06, z=-6.50, cpos=[3, -1], tl=180118, v=true] died, message: 'Villager suffocated in a wall'
-[20:49:07] [Server thread/INFO]: sallu_bhaiyaboo hit the ground too hard
-[21:13:36] [Server thread/INFO]: sallu_bhaiyaboo lost connection: Disconnected
-[21:13:36] [Server thread/INFO]: sallu_bhaiyaboo left the game
+[08:22:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:22:51] [ServerMain/INFO]: Loaded 1290 recipes
+[08:22:51] [ServerMain/INFO]: Loaded 1399 advancements
+[08:22:52] [Server thread/INFO]: Starting minecraft server version 1.21
+[08:22:52] [Server thread/INFO]: Loading properties
+[08:22:52] [Server thread/INFO]: This server is running Paper version 1.21-99-master@f1f01a1 (2024-07-19T19:43:35Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[08:22:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:22:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:22:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[08:22:56] [Server thread/INFO]: Default game type: SURVIVAL
+[08:22:56] [Server thread/INFO]: Generating keypair
+[08:22:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:22:56] [Server thread/INFO]: Using epoll channel type
+[08:22:56] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[08:22:56] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[08:22:57] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[08:23:02] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[08:23:02] [Server thread/INFO]: [floodgate] Took 5,119ms to boot Floodgate
+[08:23:02] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
+[08:23:02] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
+[08:23:06] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[08:23:06] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[08:23:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:23:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:23:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:23:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:23:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:23:06] [Server thread/INFO]: Preparing level "world"
+[08:23:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:23:12] [Server thread/INFO]: Time elapsed: 5022 ms
+[08:23:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:23:13] [Server thread/INFO]: Time elapsed: 823 ms
+[08:23:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:23:14] [Server thread/INFO]: Time elapsed: 378 ms
+[08:23:14] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[08:23:17] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[08:23:17] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:23:17] [Server thread/INFO]: [Geyser-Spigot] 
+[08:23:17] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-b612 (git-master-8fd99e1)
+[08:23:17] [Server thread/INFO]: [Geyser-Spigot] 
+[08:23:17] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:23:37] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[08:23:37] [Server thread/INFO]: [Geyser-Spigot] Done (20.388s)! Run /geyser help for help!
+[08:23:38] [Server thread/INFO]: Done preparing level "world" (31.652s)
+[08:23:38] [Server thread/INFO]: Running delayed init tasks
+[08:23:38] [Server thread/INFO]: Done (64.334s)! For help, type "help"
+[08:23:38] [Server thread/INFO]: Timings Reset
+[08:23:42] [Server thread/INFO]: Stopping server
+[08:23:42] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.0-SNAPSHOT
+[08:23:42] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[08:23:42] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[08:23:42] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[08:23:42] [Server thread/INFO]: Saving players
+[08:23:42] [WebSocketConnectReadThread-59/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[08:23:42] [Server thread/INFO]: Saving worlds
+[08:23:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:23:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[08:23:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[08:23:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[08:23:43] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.77s
+[08:23:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:23:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[08:23:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[08:23:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[08:23:44] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.23s
+[08:23:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:23:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[08:23:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[08:23:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[08:23:44] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.17s
+[08:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
