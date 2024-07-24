@@ -19,4 +19,4 @@ if [ ! -f eula.txt ]; then
 fi
 
 # Start the server
-java -Xmx1G -Xms1G -jar paper-1.21-99.jar nogui
+java -Xmx2G -Xms1G -jar paper-1.21-99.jar nogui
