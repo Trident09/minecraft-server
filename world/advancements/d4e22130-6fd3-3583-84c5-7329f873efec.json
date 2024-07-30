@@ -7,24 +7,33 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2024-07-21 18:08:13 +0000",
+      "minecraft:deep_ocean": "2024-07-25 17:34:47 +0000",
+      "minecraft:lush_caves": "2024-07-29 19:29:31 +0000",
+      "minecraft:eroded_badlands": "2024-07-16 20:56:16 +0000",
+      "minecraft:desert": "2024-07-16 21:15:42 +0000",
+      "minecraft:jungle": "2024-07-19 15:14:55 +0000",
+      "minecraft:ocean": "2024-07-25 17:43:12 +0000",
+      "minecraft:birch_forest": "2024-07-29 19:20:12 +0000",
+      "minecraft:bamboo_jungle": "2024-07-19 15:04:53 +0000",
+      "minecraft:wooded_badlands": "2024-07-20 12:28:09 +0000",
+      "minecraft:warm_ocean": "2024-07-20 12:17:53 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-07-20 15:44:29 +0000",
       "minecraft:badlands": "2024-07-16 21:16:46 +0000",
       "minecraft:savanna_plateau": "2024-07-21 18:04:50 +0000",
       "minecraft:beach": "2024-07-19 14:41:24 +0000",
-      "minecraft:forest": "2024-07-21 18:08:13 +0000",
+      "minecraft:stony_peaks": "2024-07-29 13:35:45 +0000",
+      "minecraft:dark_forest": "2024-07-29 19:19:18 +0000",
       "minecraft:sparse_jungle": "2024-07-19 15:04:38 +0000",
       "minecraft:lukewarm_ocean": "2024-07-16 20:49:41 +0000",
       "minecraft:river": "2024-07-16 21:08:25 +0000",
       "minecraft:stony_shore": "2024-07-16 20:49:37 +0000",
       "minecraft:dripstone_caves": "2024-07-21 18:09:52 +0000",
-      "minecraft:eroded_badlands": "2024-07-16 20:56:16 +0000",
-      "minecraft:desert": "2024-07-16 21:15:42 +0000",
-      "minecraft:jungle": "2024-07-19 15:14:55 +0000",
+      "minecraft:old_growth_birch_forest": "2024-07-29 19:47:34 +0000",
+      "minecraft:deep_dark": "2024-07-29 16:03:56 +0000",
+      "minecraft:meadow": "2024-07-29 19:19:25 +0000",
       "minecraft:savanna": "2024-07-16 20:49:23 +0000",
-      "minecraft:bamboo_jungle": "2024-07-19 15:04:53 +0000",
-      "minecraft:wooded_badlands": "2024-07-20 12:28:09 +0000",
-      "minecraft:plains": "2024-07-16 20:52:33 +0000",
-      "minecraft:warm_ocean": "2024-07-20 12:17:53 +0000",
-      "minecraft:deep_lukewarm_ocean": "2024-07-20 15:44:29 +0000"
+      "minecraft:plains": "2024-07-16 20:52:33 +0000"
     },
     "done": false
   },
@@ -351,14 +360,17 @@
       "minecraft:pillager": "2024-07-19 09:08:14 +0000",
       "minecraft:blaze": "2024-07-20 20:45:09 +0000",
       "minecraft:skeleton": "2024-07-18 17:26:17 +0000",
-      "minecraft:piglin": "2024-07-16 22:23:51 +0000",
       "minecraft:zombified_piglin": "2024-07-22 19:04:38 +0000",
+      "minecraft:husk": "2024-07-20 12:14:37 +0000",
+      "minecraft:shulker": "2024-07-21 19:01:49 +0000",
+      "minecraft:cave_spider": "2024-07-25 16:42:27 +0000",
+      "minecraft:piglin": "2024-07-16 22:23:51 +0000",
       "minecraft:enderman": "2024-07-18 18:09:49 +0000",
+      "minecraft:endermite": "2024-07-29 12:49:50 +0000",
       "minecraft:spider": "2024-07-18 19:46:25 +0000",
       "minecraft:zombie": "2024-07-16 20:58:15 +0000",
-      "minecraft:zombie_villager": "2024-07-23 14:08:08 +0000",
-      "minecraft:husk": "2024-07-20 12:14:37 +0000",
-      "minecraft:shulker": "2024-07-21 19:01:49 +0000"
+      "minecraft:creeper": "2024-07-29 19:01:17 +0000",
+      "minecraft:zombie_villager": "2024-07-23 14:08:08 +0000"
     },
     "done": false
   },
@@ -371,8 +383,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-07-16 21:33:00 +0000",
+      "mutton": "2024-07-29 15:08:53 +0000",
       "bread": "2024-07-16 21:22:07 +0000",
       "cooked_mutton": "2024-07-16 20:58:50 +0000",
+      "salmon": "2024-07-29 14:57:43 +0000",
       "cooked_beef": "2024-07-18 19:14:20 +0000",
       "chorus_fruit": "2024-07-21 18:49:42 +0000",
       "baked_potato": "2024-07-19 10:21:22 +0000",
@@ -1164,9 +1178,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-07-16 22:07:17 +0000",
       "minecraft:nether_wastes": "2024-07-20 20:44:13 +0000",
-      "minecraft:warped_forest": "2024-07-18 20:49:10 +0000"
+      "minecraft:soul_sand_valley": "2024-07-29 15:14:18 +0000",
+      "minecraft:warped_forest": "2024-07-18 20:49:10 +0000",
+      "minecraft:basalt_deltas": "2024-07-29 15:18:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -3405,6 +3421,348 @@
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2024-07-23 15:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-07-29 10:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-07-29 10:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-07-29 10:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-07-29 10:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-07-29 10:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2024-07-29 10:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-07-29 11:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-07-29 11:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-07-29 11:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-07-29 11:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-07-29 11:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-07-29 11:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-29 11:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-07-29 11:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2024-07-29 11:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-07-29 11:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-07-29 11:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-07-29 11:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2024-07-29 11:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2024-07-29 11:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-07-29 11:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2024-07-29 11:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2024-07-29 11:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2024-07-29 11:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2024-07-29 11:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2024-07-29 11:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-07-29 13:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-07-29 13:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-07-29 13:57:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-07-29 14:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-07-29 14:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-07-29 14:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-07-29 14:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-07-29 14:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-07-29 14:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-07-29 14:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-07-29 14:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-07-29 14:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2024-07-29 14:53:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-07-29 15:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-07-29 15:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-07-29 15:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-07-29 15:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-07-29 15:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-07-29 15:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-07-29 15:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2024-07-29 15:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-07-29 15:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2024-07-29 16:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2024-07-29 17:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-07-29 17:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-07-29 17:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-07-29 17:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-07-29 18:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2024-07-29 18:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-07-29 19:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-07-29 19:28:49 +0000"
     },
     "done": true
   },
