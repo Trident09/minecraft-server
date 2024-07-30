@@ -3,3 +3,184 @@
 [04:59:52] [Server thread/INFO]: sallu_bhaiyaboo[/122.177.104.142:13400] logged in with entity id 362112 at ([world]-29.50504737940885, 180.0, 21.56803738184164)
 [05:07:15] [Server thread/INFO]: sallu_bhaiyaboo lost connection: Disconnected
 [05:07:15] [Server thread/INFO]: sallu_bhaiyaboo left the game
+[07:57:35] [User Authenticator #24/INFO]: UUID of player Tridentblade09 is f6001e97-76b8-3898-907a-539629420be9
+[07:57:36] [Server thread/INFO]: Tridentblade09 joined the game
+[07:57:36] [Server thread/INFO]: Tridentblade09[/122.177.104.142:1860] logged in with entity id 367284 at ([world]40.69999998807907, 64.0, -21.79307313320885)
+[07:59:37] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 91 73 20 glass
+[07:59:37] [Server thread/INFO]: [Tridentblade09: Changed the block at 91, 73, 20]
+[07:59:56] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 91 73 20 minecraft:light_blue_stained_glass
+[07:59:56] [Server thread/INFO]: [Tridentblade09: Changed the block at 91, 73, 20]
+[08:00:13] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 90 73 20 minecraft:light_blue_stained_glass
+[08:00:13] [Server thread/INFO]: [Tridentblade09: Changed the block at 90, 73, 20]
+[08:00:19] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:villager
+[08:00:19] [Server thread/INFO]: [Tridentblade09: Summoned new Villager]
+[08:00:56] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 90 76 20 minecraft:light_blue_stained_glass
+[08:00:56] [Server thread/INFO]: [Tridentblade09: Changed the block at 90, 76, 20]
+[08:01:13] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 91 76 20 minecraft:light_blue_stained_glass
+[08:01:13] [Server thread/INFO]: [Tridentblade09: Changed the block at 91, 76, 20]
+[08:01:18] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:villager
+[08:01:18] [Server thread/INFO]: [Tridentblade09: Summoned new Villager]
+[08:01:50] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 91 79 20 minecraft:light_blue_stained_glass
+[08:01:50] [Server thread/INFO]: [Tridentblade09: Changed the block at 91, 79, 20]
+[08:01:56] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 90 79 20 minecraft:light_blue_stained_glass
+[08:01:56] [Server thread/INFO]: [Tridentblade09: Changed the block at 90, 79, 20]
+[08:02:01] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:villager
+[08:02:01] [Server thread/INFO]: [Tridentblade09: Summoned new Villager]
+[08:02:40] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 90 82 20 minecraft:light_blue_stained_glass
+[08:02:40] [Server thread/INFO]: [Tridentblade09: Changed the block at 90, 82, 20]
+[08:02:45] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 91 82 20 minecraft:light_blue_stained_glass
+[08:02:45] [Server thread/INFO]: [Tridentblade09: Changed the block at 91, 82, 20]
+[08:02:53] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:villager
+[08:02:53] [Server thread/INFO]: [Tridentblade09: Summoned new Villager]
+[08:19:28] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:19:28] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:21:22] [Server thread/INFO]: Villager Villager['Villager'/344135, uuid='0f8fc8eb-4484-42ba-9ad7-9a07f17d93c8', l='ServerLevel[world]', x=79.30, y=66.05, z=-26.18, cpos=[4, -2], tl=41604, v=true] died, message: 'Villager was squished too much'
+[08:25:48] [Server thread/INFO]: Villager Villager['Villager'/307268, uuid='2e564564-5ce6-4461-8fbe-e4770d1ab4c6', l='ServerLevel[world]', x=79.70, y=66.05, z=-26.13, cpos=[4, -2], tl=117580, v=true] died, message: 'Villager was squished too much'
+[08:27:41] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[08:27:41] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[08:28:52] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:28:52] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:29:20] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode spectator
+[08:29:20] [Server thread/INFO]: [Tridentblade09: Set own game mode to Spectator Mode]
+[08:30:01] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:30:01] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:36:47] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[08:36:47] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[08:36:59] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:36:59] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:37:22] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[08:37:22] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[08:37:35] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:37:35] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:37:56] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode spectator
+[08:37:56] [Server thread/INFO]: [Tridentblade09: Set own game mode to Spectator Mode]
+[08:38:06] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:38:06] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:38:31] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[08:38:31] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[08:38:56] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:38:56] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:39:44] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[08:39:44] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[08:39:53] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:39:53] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:44:10] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[08:44:10] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[08:44:18] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:44:18] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:45:09] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[08:45:09] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[08:45:15] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:45:15] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:45:36] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[08:45:36] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[08:46:00] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:46:00] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:46:05] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[08:46:05] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[08:46:17] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:46:17] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:48:09] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[08:48:09] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[08:48:15] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:48:15] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:51:17] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[08:51:17] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[08:51:56] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:51:56] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:52:36] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[08:52:36] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[08:59:00] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[08:59:00] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[08:59:06] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[08:59:06] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[08:59:16] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:item_frame
+[08:59:16] [Server thread/INFO]: [Tridentblade09: Gave 1 [Item Frame] to Tridentblade09]
+[09:02:32] [Server thread/INFO]: Tridentblade09 lost connection: Disconnected
+[09:02:32] [Server thread/INFO]: Tridentblade09 left the game
+[14:09:42] [User Authenticator #25/INFO]: UUID of player sallu_bhaiyaboo is d4e22130-6fd3-3583-84c5-7329f873efec
+[14:09:43] [Server thread/INFO]: sallu_bhaiyaboo joined the game
+[14:09:43] [Server thread/INFO]: sallu_bhaiyaboo[/122.177.104.142:1368] logged in with entity id 382818 at ([world]-28.332904028964688, 180.0, 21.417300689372787)
+[14:20:39] [Server thread/INFO]: Villager Villager['Villager'/369279, uuid='6a13b486-3375-43bf-a765-79633b61867e', l='ServerLevel[world]', x=79.41, y=66.04, z=-26.23, cpos=[4, -2], tl=38960, v=true] died, message: 'Villager was squished too much'
+[14:39:33] [Server thread/WARN]: sallu_bhaiyaboo moved wrongly!
+[14:58:14] [Server thread/INFO]: sallu_bhaiyaboo was blown up by Creeper
+[15:01:24] [Server thread/INFO]: sallu_bhaiyaboo was slain by Husk
+[15:01:46] [Server thread/INFO]: sallu_bhaiyaboo lost connection: Disconnected
+[15:01:46] [Server thread/INFO]: sallu_bhaiyaboo left the game
+[15:03:10] [User Authenticator #26/INFO]: UUID of player Tridentblade09 is f6001e97-76b8-3898-907a-539629420be9
+[15:03:11] [Server thread/INFO]: Tridentblade09 joined the game
+[15:03:11] [Server thread/INFO]: Tridentblade09[/122.177.104.142:3360] logged in with entity id 409176 at ([world]52.28173406401821, 64.0, -23.307734474480156)
+[15:06:16] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:chest
+[15:06:16] [Server thread/INFO]: [Tridentblade09: Gave 1 [Chest] to Tridentblade09]
+[15:07:21] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[15:07:21] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[15:07:25] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[15:07:25] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[15:07:27] [User Authenticator #27/INFO]: UUID of player sallu_bhaiyaboo is d4e22130-6fd3-3583-84c5-7329f873efec
+[15:07:28] [Server thread/INFO]: sallu_bhaiyaboo joined the game
+[15:07:28] [Server thread/INFO]: sallu_bhaiyaboo[/122.177.104.142:18460] logged in with entity id 412787 at ([world]74.43429839243557, 69.0, -10.033227299169335)
+[15:07:44] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
+[15:07:44] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
+[15:14:40] [Server thread/INFO]: Tridentblade09 issued server command: /tp Tridentblade09 0 100 0
+[15:14:40] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to 0.500000, 100.000000, 0.500000]
+[15:14:40] [Server thread/WARN]: Tridentblade09 moved too quickly! -2444.498005471929,39.85201755991634,-1387.9595193731582
+[15:16:35] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
+[15:16:35] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
+[15:19:36] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 70 71 -5 minecraft:black_concrete
+[15:19:36] [Server thread/INFO]: [Tridentblade09: Changed the block at 70, 71, -5]
+[15:21:21] [Server thread/INFO]: sallu_bhaiyaboo lost connection: Disconnected
+[15:21:21] [Server thread/INFO]: sallu_bhaiyaboo left the game
+[15:22:59] [Server thread/INFO]: Tridentblade09 lost connection: Disconnected
+[15:22:59] [Server thread/INFO]: Tridentblade09 left the game
+[18:08:12] [User Authenticator #28/INFO]: UUID of player Tridentblade09 is f6001e97-76b8-3898-907a-539629420be9
+[18:08:12] [Server thread/INFO]: Tridentblade09 joined the game
+[18:08:12] [Server thread/INFO]: Tridentblade09[/122.177.104.142:20650] logged in with entity id 420047 at ([world]40.37089266036364, 64.0, -27.095478627840034)
+[18:08:25] [Async Chat Thread - #32/INFO]: [Not Secure] <Tridentblade09> Tridentblade09
+[18:08:48] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[18:08:48] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[18:09:26] [Server thread/INFO]: Villager Villager['Villager'/242604, uuid='6286d8f3-ed3e-4f6b-8797-a48e542897b8', l='ServerLevel[world]', x=79.30, y=66.04, z=-26.11, cpos=[4, -2], tl=224226, v=true] died, message: 'Villager was squished too much'
+[18:29:34] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[18:29:34] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[18:30:09] [Server thread/INFO]: Tridentblade09 issued server command: /fill 61 84 1
+[18:30:37] [Server thread/INFO]: Tridentblade09 issued server command: /fill 61 84 1 61 84 9 minecraft:iron_block replace minecraft:tinted_glass
+[18:30:37] [Server thread/INFO]: [Tridentblade09: Successfully filled 6 block(s)]
+[18:31:10] [Server thread/INFO]: Tridentblade09 issued server command: /fill 62 85 9
+[18:31:21] [Server thread/INFO]: Tridentblade09 issued server command: /fill 62 85 9 62 85 7 minecraft:iron_block replace minecraft:tinted_glass
+[18:31:21] [Server thread/INFO]: [Tridentblade09: Successfully filled 3 block(s)]
+[18:33:03] [Server thread/INFO]: Tridentblade09 issued server command: /fill 62 85 1
+[18:33:14] [Server thread/INFO]: Tridentblade09 issued server command: /fill 62 85 1 62 85 3 minecraft:iron_block replace minecraft:tinted_glass
+[18:33:14] [Server thread/INFO]: [Tridentblade09: Successfully filled 3 block(s)]
+[18:35:08] [Server thread/INFO]: Tridentblade09 issued server command: /fill 62 86 1
+[18:35:20] [Server thread/INFO]: Tridentblade09 issued server command: /fill 62 86 1 62 86 9 minecraft:iron_block replace minecraft:tinted_glass
+[18:35:20] [Server thread/INFO]: [Tridentblade09: Successfully filled 6 block(s)]
+[18:36:09] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[18:36:09] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[18:45:41] [Server thread/INFO]: Villager Villager['Villager'/314052, uuid='d82140cd-dfa4-474a-bad6-80b7ef9e9b93', l='ServerLevel[world]', x=79.49, y=66.05, z=-26.10, cpos=[4, -2], tl=175821, v=true] died, message: 'Villager was squished too much'
+[18:49:53] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[18:49:53] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[18:51:12] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[18:51:12] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[18:59:20] [Server thread/INFO]: Villager Villager['Villager'/382027, uuid='9c57638f-10d2-4b42-b01f-eb342d195c4d', l='ServerLevel[world]', x=79.30, y=66.04, z=-26.20, cpos=[4, -2], tl=90072, v=true] died, message: 'Villager was squished too much'
+[19:02:29] [Server thread/INFO]: Villager Villager['Villager'/372786, uuid='fbcba7ed-6bd5-4330-974c-add7273dce10', l='ServerLevel[world]', x=79.30, y=66.05, z=-26.11, cpos=[4, -2], tl=109291, v=true] died, message: 'Villager was squished too much'
+[19:14:29] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[19:14:29] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[19:24:03] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[19:24:04] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[19:39:03] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[19:39:03] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[19:39:18] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[19:39:18] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[19:42:49] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:wither_skeleton
+[19:42:49] [Server thread/INFO]: [Tridentblade09: Summoned new Wither Skeleton]
+[19:43:14] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:wither_skeleton
+[19:43:14] [Server thread/INFO]: [Tridentblade09: Summoned new Wither Skeleton]
+[19:43:37] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:wither_skeleton
+[19:43:37] [Server thread/INFO]: [Tridentblade09: Summoned new Wither Skeleton]
+[19:43:43] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:wither_skeleton
+[19:43:43] [Server thread/INFO]: [Tridentblade09: Summoned new Wither Skeleton]
+[19:45:14] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[19:45:14] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[19:45:52] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:birch_sign
+[19:45:52] [Server thread/INFO]: [Tridentblade09: Gave 1 [Birch Sign] to Tridentblade09]
+[19:47:45] [Server thread/INFO]: Tridentblade09 lost connection: Disconnected
+[19:47:45] [Server thread/INFO]: Tridentblade09 left the game
