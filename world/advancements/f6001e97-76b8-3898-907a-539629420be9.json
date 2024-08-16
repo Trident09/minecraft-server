@@ -7,30 +7,41 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-07-31 18:06:52 +0000",
       "minecraft:forest": "2024-07-18 18:39:03 +0000",
+      "minecraft:deep_ocean": "2024-07-31 17:39:40 +0000",
       "minecraft:lush_caves": "2024-07-18 19:19:02 +0000",
       "minecraft:eroded_badlands": "2024-07-18 18:05:46 +0000",
       "minecraft:desert": "2024-07-18 18:06:27 +0000",
       "minecraft:windswept_forest": "2024-07-21 14:43:21 +0000",
       "minecraft:jungle": "2024-07-18 18:38:23 +0000",
       "minecraft:ocean": "2024-07-21 14:42:27 +0000",
+      "minecraft:cherry_grove": "2024-07-31 17:38:10 +0000",
+      "minecraft:sunflower_plains": "2024-07-31 17:37:49 +0000",
+      "minecraft:birch_forest": "2024-07-31 17:32:36 +0000",
       "minecraft:windswept_hills": "2024-07-21 14:43:23 +0000",
       "minecraft:bamboo_jungle": "2024-07-19 15:04:10 +0000",
       "minecraft:wooded_badlands": "2024-07-23 16:03:56 +0000",
+      "minecraft:windswept_savanna": "2024-07-31 15:13:10 +0000",
       "minecraft:warm_ocean": "2024-07-20 12:08:58 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-07-19 15:49:56 +0000",
       "minecraft:badlands": "2024-07-20 17:42:29 +0000",
+      "minecraft:flower_forest": "2024-07-31 17:37:46 +0000",
       "minecraft:savanna_plateau": "2024-07-20 18:39:19 +0000",
       "minecraft:beach": "2024-07-19 14:47:39 +0000",
       "minecraft:stony_peaks": "2024-07-20 18:39:55 +0000",
+      "minecraft:dark_forest": "2024-07-31 17:32:17 +0000",
+      "minecraft:mangrove_swamp": "2024-07-31 15:16:58 +0000",
       "minecraft:sparse_jungle": "2024-07-19 15:03:50 +0000",
       "minecraft:river": "2024-07-18 17:44:27 +0000",
       "minecraft:lukewarm_ocean": "2024-07-18 17:43:02 +0000",
       "minecraft:stony_shore": "2024-07-18 17:29:45 +0000",
       "minecraft:dripstone_caves": "2024-07-20 18:52:01 +0000",
+      "minecraft:frozen_peaks": "2024-07-31 18:07:07 +0000",
       "minecraft:old_growth_birch_forest": "2024-07-21 14:43:01 +0000",
       "minecraft:deep_dark": "2024-07-21 12:26:54 +0000",
       "minecraft:swamp": "2024-07-21 14:43:31 +0000",
+      "minecraft:grove": "2024-07-31 18:10:00 +0000",
       "minecraft:savanna": "2024-07-18 17:27:28 +0000",
       "minecraft:plains": "2024-07-18 17:30:06 +0000"
     },
@@ -72,23 +83,25 @@
       "minecraft:pillager": "2024-07-21 12:12:06 +0000",
       "minecraft:skeleton": "2024-07-18 19:38:22 +0000",
       "minecraft:zoglin": "2024-07-29 16:57:25 +0000",
+      "minecraft:ghast": "2024-07-28 11:16:52 +0000",
+      "minecraft:hoglin": "2024-07-20 20:00:11 +0000",
+      "minecraft:magma_cube": "2024-07-28 10:23:56 +0000",
+      "minecraft:spider": "2024-07-18 17:35:22 +0000",
+      "minecraft:piglin_brute": "2024-07-28 10:38:41 +0000",
+      "minecraft:creeper": "2024-07-18 19:28:54 +0000",
+      "minecraft:wither": "2024-07-31 14:30:45 +0000",
+      "minecraft:slime": "2024-07-31 15:18:44 +0000",
       "minecraft:phantom": "2024-07-19 11:59:25 +0000",
       "minecraft:zombified_piglin": "2024-07-23 12:22:02 +0000",
       "minecraft:witch": "2024-07-18 19:19:11 +0000",
       "minecraft:wither_skeleton": "2024-07-20 21:14:36 +0000",
       "minecraft:husk": "2024-07-19 12:21:10 +0000",
-      "minecraft:ghast": "2024-07-28 11:16:52 +0000",
-      "minecraft:hoglin": "2024-07-20 20:00:11 +0000",
       "minecraft:shulker": "2024-07-21 19:01:44 +0000",
       "minecraft:cave_spider": "2024-07-18 18:07:25 +0000",
       "minecraft:piglin": "2024-07-18 20:35:30 +0000",
       "minecraft:enderman": "2024-07-20 21:16:48 +0000",
       "minecraft:silverfish": "2024-07-21 12:34:01 +0000",
-      "minecraft:magma_cube": "2024-07-28 10:23:56 +0000",
-      "minecraft:spider": "2024-07-18 17:35:22 +0000",
-      "minecraft:piglin_brute": "2024-07-28 10:38:41 +0000",
       "minecraft:zombie": "2024-07-18 18:42:58 +0000",
-      "minecraft:creeper": "2024-07-18 19:28:54 +0000",
       "minecraft:drowned": "2024-07-18 17:59:40 +0000",
       "minecraft:zombie_villager": "2024-07-20 21:26:53 +0000"
     },
@@ -188,6 +201,7 @@
     "criteria": {
       "cooked_porkchop": "2024-07-21 17:36:17 +0000",
       "bread": "2024-07-18 19:11:18 +0000",
+      "rotten_flesh": "2024-07-31 18:21:28 +0000",
       "cooked_mutton": "2024-07-18 17:37:22 +0000",
       "cooked_beef": "2024-07-20 17:35:13 +0000",
       "chorus_fruit": "2024-07-21 19:15:29 +0000",
@@ -693,6 +707,8 @@
       "minecraft:cow": "2024-07-19 12:30:25 +0000",
       "minecraft:chicken": "2024-07-19 12:30:06 +0000",
       "minecraft:armadillo": "2024-07-29 13:42:07 +0000",
+      "minecraft:turtle": "2024-07-31 15:14:26 +0000",
+      "minecraft:frog": "2024-07-31 15:19:04 +0000",
       "minecraft:sheep": "2024-07-18 18:03:32 +0000"
     },
     "done": false
@@ -4989,6 +5005,372 @@
   "minecraft:recipes/building_blocks/stripped_jungle_wood": {
     "criteria": {
       "has_log": "2024-07-30 18:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-07-31 12:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-07-31 12:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-07-31 12:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-07-31 12:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-07-31 12:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-07-31 12:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-07-31 12:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-07-31 12:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-07-31 12:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-07-31 12:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-07-31 12:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-07-31 12:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-07-31 12:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-07-31 12:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-07-31 12:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-07-31 13:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-07-31 13:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2024-07-31 13:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-07-31 15:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-07-31 17:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-07-31 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-07-31 17:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-07-31 16:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2024-07-31 16:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-07-31 15:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-07-31 17:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-07-31 14:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-07-31 16:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-07-31 16:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-07-31 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-07-31 14:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-07-31 14:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-07-31 16:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-07-31 17:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-07-31 14:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-07-31 14:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-07-31 17:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-07-31 14:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-07-31 15:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tadpole_in_a_bucket": {
+    "criteria": {
+      "tadpole_bucket": "2024-07-31 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-07-31 15:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-07-31 16:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-07-31 15:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-07-31 17:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-07-31 14:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-07-31 17:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-07-31 17:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-07-31 16:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-07-31 14:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-07-31 15:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-07-31 14:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2024-07-31 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-07-31 18:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-07-31 14:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-07-31 14:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-07-31 14:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-07-31 17:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-07-31 18:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-07-31 14:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-07-31 17:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-07-31 16:06:11 +0000"
     },
     "done": true
   },

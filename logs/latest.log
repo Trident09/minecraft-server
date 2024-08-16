@@ -1,186 +1,397 @@
-[04:59:51] [User Authenticator #23/INFO]: UUID of player sallu_bhaiyaboo is d4e22130-6fd3-3583-84c5-7329f873efec
-[04:59:52] [Server thread/INFO]: sallu_bhaiyaboo joined the game
-[04:59:52] [Server thread/INFO]: sallu_bhaiyaboo[/122.177.104.142:13400] logged in with entity id 362112 at ([world]-29.50504737940885, 180.0, 21.56803738184164)
-[05:07:15] [Server thread/INFO]: sallu_bhaiyaboo lost connection: Disconnected
-[05:07:15] [Server thread/INFO]: sallu_bhaiyaboo left the game
-[07:57:35] [User Authenticator #24/INFO]: UUID of player Tridentblade09 is f6001e97-76b8-3898-907a-539629420be9
-[07:57:36] [Server thread/INFO]: Tridentblade09 joined the game
-[07:57:36] [Server thread/INFO]: Tridentblade09[/122.177.104.142:1860] logged in with entity id 367284 at ([world]40.69999998807907, 64.0, -21.79307313320885)
-[07:59:37] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 91 73 20 glass
-[07:59:37] [Server thread/INFO]: [Tridentblade09: Changed the block at 91, 73, 20]
-[07:59:56] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 91 73 20 minecraft:light_blue_stained_glass
-[07:59:56] [Server thread/INFO]: [Tridentblade09: Changed the block at 91, 73, 20]
-[08:00:13] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 90 73 20 minecraft:light_blue_stained_glass
-[08:00:13] [Server thread/INFO]: [Tridentblade09: Changed the block at 90, 73, 20]
-[08:00:19] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:villager
-[08:00:19] [Server thread/INFO]: [Tridentblade09: Summoned new Villager]
-[08:00:56] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 90 76 20 minecraft:light_blue_stained_glass
-[08:00:56] [Server thread/INFO]: [Tridentblade09: Changed the block at 90, 76, 20]
-[08:01:13] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 91 76 20 minecraft:light_blue_stained_glass
-[08:01:13] [Server thread/INFO]: [Tridentblade09: Changed the block at 91, 76, 20]
-[08:01:18] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:villager
-[08:01:18] [Server thread/INFO]: [Tridentblade09: Summoned new Villager]
-[08:01:50] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 91 79 20 minecraft:light_blue_stained_glass
-[08:01:50] [Server thread/INFO]: [Tridentblade09: Changed the block at 91, 79, 20]
-[08:01:56] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 90 79 20 minecraft:light_blue_stained_glass
-[08:01:56] [Server thread/INFO]: [Tridentblade09: Changed the block at 90, 79, 20]
-[08:02:01] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:villager
-[08:02:01] [Server thread/INFO]: [Tridentblade09: Summoned new Villager]
-[08:02:40] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 90 82 20 minecraft:light_blue_stained_glass
-[08:02:40] [Server thread/INFO]: [Tridentblade09: Changed the block at 90, 82, 20]
-[08:02:45] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 91 82 20 minecraft:light_blue_stained_glass
-[08:02:45] [Server thread/INFO]: [Tridentblade09: Changed the block at 91, 82, 20]
-[08:02:53] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:villager
-[08:02:53] [Server thread/INFO]: [Tridentblade09: Summoned new Villager]
-[08:19:28] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:19:28] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:21:22] [Server thread/INFO]: Villager Villager['Villager'/344135, uuid='0f8fc8eb-4484-42ba-9ad7-9a07f17d93c8', l='ServerLevel[world]', x=79.30, y=66.05, z=-26.18, cpos=[4, -2], tl=41604, v=true] died, message: 'Villager was squished too much'
-[08:25:48] [Server thread/INFO]: Villager Villager['Villager'/307268, uuid='2e564564-5ce6-4461-8fbe-e4770d1ab4c6', l='ServerLevel[world]', x=79.70, y=66.05, z=-26.13, cpos=[4, -2], tl=117580, v=true] died, message: 'Villager was squished too much'
-[08:27:41] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[08:27:41] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[08:28:52] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:28:52] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:29:20] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode spectator
-[08:29:20] [Server thread/INFO]: [Tridentblade09: Set own game mode to Spectator Mode]
-[08:30:01] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:30:01] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:36:47] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[08:36:47] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[08:36:59] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:36:59] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:37:22] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[08:37:22] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[08:37:35] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:37:35] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:37:56] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode spectator
-[08:37:56] [Server thread/INFO]: [Tridentblade09: Set own game mode to Spectator Mode]
-[08:38:06] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:38:06] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:38:31] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[08:38:31] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[08:38:56] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:38:56] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:39:44] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[08:39:44] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[08:39:53] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:39:53] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:44:10] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[08:44:10] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[08:44:18] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:44:18] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:45:09] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[08:45:09] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[08:45:15] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:45:15] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:45:36] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[08:45:36] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[08:46:00] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:46:00] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:46:05] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[08:46:05] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[08:46:17] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:46:17] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:48:09] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[08:48:09] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[08:48:15] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:48:15] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:51:17] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[08:51:17] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[08:51:56] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:51:56] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:52:36] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[08:52:36] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[08:59:00] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[08:59:00] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[08:59:06] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[08:59:06] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[08:59:16] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:item_frame
-[08:59:16] [Server thread/INFO]: [Tridentblade09: Gave 1 [Item Frame] to Tridentblade09]
-[09:02:32] [Server thread/INFO]: Tridentblade09 lost connection: Disconnected
-[09:02:32] [Server thread/INFO]: Tridentblade09 left the game
-[14:09:42] [User Authenticator #25/INFO]: UUID of player sallu_bhaiyaboo is d4e22130-6fd3-3583-84c5-7329f873efec
-[14:09:43] [Server thread/INFO]: sallu_bhaiyaboo joined the game
-[14:09:43] [Server thread/INFO]: sallu_bhaiyaboo[/122.177.104.142:1368] logged in with entity id 382818 at ([world]-28.332904028964688, 180.0, 21.417300689372787)
-[14:20:39] [Server thread/INFO]: Villager Villager['Villager'/369279, uuid='6a13b486-3375-43bf-a765-79633b61867e', l='ServerLevel[world]', x=79.41, y=66.04, z=-26.23, cpos=[4, -2], tl=38960, v=true] died, message: 'Villager was squished too much'
-[14:39:33] [Server thread/WARN]: sallu_bhaiyaboo moved wrongly!
-[14:58:14] [Server thread/INFO]: sallu_bhaiyaboo was blown up by Creeper
-[15:01:24] [Server thread/INFO]: sallu_bhaiyaboo was slain by Husk
-[15:01:46] [Server thread/INFO]: sallu_bhaiyaboo lost connection: Disconnected
-[15:01:46] [Server thread/INFO]: sallu_bhaiyaboo left the game
-[15:03:10] [User Authenticator #26/INFO]: UUID of player Tridentblade09 is f6001e97-76b8-3898-907a-539629420be9
-[15:03:11] [Server thread/INFO]: Tridentblade09 joined the game
-[15:03:11] [Server thread/INFO]: Tridentblade09[/122.177.104.142:3360] logged in with entity id 409176 at ([world]52.28173406401821, 64.0, -23.307734474480156)
-[15:06:16] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:chest
-[15:06:16] [Server thread/INFO]: [Tridentblade09: Gave 1 [Chest] to Tridentblade09]
-[15:07:21] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[15:07:21] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[15:07:25] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[15:07:25] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[15:07:27] [User Authenticator #27/INFO]: UUID of player sallu_bhaiyaboo is d4e22130-6fd3-3583-84c5-7329f873efec
-[15:07:28] [Server thread/INFO]: sallu_bhaiyaboo joined the game
-[15:07:28] [Server thread/INFO]: sallu_bhaiyaboo[/122.177.104.142:18460] logged in with entity id 412787 at ([world]74.43429839243557, 69.0, -10.033227299169335)
-[15:07:44] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
-[15:07:44] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
-[15:14:40] [Server thread/INFO]: Tridentblade09 issued server command: /tp Tridentblade09 0 100 0
-[15:14:40] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to 0.500000, 100.000000, 0.500000]
-[15:14:40] [Server thread/WARN]: Tridentblade09 moved too quickly! -2444.498005471929,39.85201755991634,-1387.9595193731582
-[15:16:35] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
-[15:16:35] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
-[15:19:36] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 70 71 -5 minecraft:black_concrete
-[15:19:36] [Server thread/INFO]: [Tridentblade09: Changed the block at 70, 71, -5]
-[15:21:21] [Server thread/INFO]: sallu_bhaiyaboo lost connection: Disconnected
-[15:21:21] [Server thread/INFO]: sallu_bhaiyaboo left the game
-[15:22:59] [Server thread/INFO]: Tridentblade09 lost connection: Disconnected
-[15:22:59] [Server thread/INFO]: Tridentblade09 left the game
-[18:08:12] [User Authenticator #28/INFO]: UUID of player Tridentblade09 is f6001e97-76b8-3898-907a-539629420be9
-[18:08:12] [Server thread/INFO]: Tridentblade09 joined the game
-[18:08:12] [Server thread/INFO]: Tridentblade09[/122.177.104.142:20650] logged in with entity id 420047 at ([world]40.37089266036364, 64.0, -27.095478627840034)
-[18:08:25] [Async Chat Thread - #32/INFO]: [Not Secure] <Tridentblade09> Tridentblade09
-[18:08:48] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[18:08:48] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[18:09:26] [Server thread/INFO]: Villager Villager['Villager'/242604, uuid='6286d8f3-ed3e-4f6b-8797-a48e542897b8', l='ServerLevel[world]', x=79.30, y=66.04, z=-26.11, cpos=[4, -2], tl=224226, v=true] died, message: 'Villager was squished too much'
-[18:29:34] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[18:29:34] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[18:30:09] [Server thread/INFO]: Tridentblade09 issued server command: /fill 61 84 1
-[18:30:37] [Server thread/INFO]: Tridentblade09 issued server command: /fill 61 84 1 61 84 9 minecraft:iron_block replace minecraft:tinted_glass
-[18:30:37] [Server thread/INFO]: [Tridentblade09: Successfully filled 6 block(s)]
-[18:31:10] [Server thread/INFO]: Tridentblade09 issued server command: /fill 62 85 9
-[18:31:21] [Server thread/INFO]: Tridentblade09 issued server command: /fill 62 85 9 62 85 7 minecraft:iron_block replace minecraft:tinted_glass
-[18:31:21] [Server thread/INFO]: [Tridentblade09: Successfully filled 3 block(s)]
-[18:33:03] [Server thread/INFO]: Tridentblade09 issued server command: /fill 62 85 1
-[18:33:14] [Server thread/INFO]: Tridentblade09 issued server command: /fill 62 85 1 62 85 3 minecraft:iron_block replace minecraft:tinted_glass
-[18:33:14] [Server thread/INFO]: [Tridentblade09: Successfully filled 3 block(s)]
-[18:35:08] [Server thread/INFO]: Tridentblade09 issued server command: /fill 62 86 1
-[18:35:20] [Server thread/INFO]: Tridentblade09 issued server command: /fill 62 86 1 62 86 9 minecraft:iron_block replace minecraft:tinted_glass
-[18:35:20] [Server thread/INFO]: [Tridentblade09: Successfully filled 6 block(s)]
-[18:36:09] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[18:36:09] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[18:45:41] [Server thread/INFO]: Villager Villager['Villager'/314052, uuid='d82140cd-dfa4-474a-bad6-80b7ef9e9b93', l='ServerLevel[world]', x=79.49, y=66.05, z=-26.10, cpos=[4, -2], tl=175821, v=true] died, message: 'Villager was squished too much'
-[18:49:53] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[18:49:53] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[18:51:12] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[18:51:12] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[18:59:20] [Server thread/INFO]: Villager Villager['Villager'/382027, uuid='9c57638f-10d2-4b42-b01f-eb342d195c4d', l='ServerLevel[world]', x=79.30, y=66.04, z=-26.20, cpos=[4, -2], tl=90072, v=true] died, message: 'Villager was squished too much'
-[19:02:29] [Server thread/INFO]: Villager Villager['Villager'/372786, uuid='fbcba7ed-6bd5-4330-974c-add7273dce10', l='ServerLevel[world]', x=79.30, y=66.05, z=-26.11, cpos=[4, -2], tl=109291, v=true] died, message: 'Villager was squished too much'
-[19:14:29] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[19:14:29] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[19:24:03] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[19:24:04] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[19:39:03] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[19:39:03] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[19:39:18] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
-[19:39:18] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
-[19:42:49] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:wither_skeleton
-[19:42:49] [Server thread/INFO]: [Tridentblade09: Summoned new Wither Skeleton]
-[19:43:14] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:wither_skeleton
-[19:43:14] [Server thread/INFO]: [Tridentblade09: Summoned new Wither Skeleton]
-[19:43:37] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:wither_skeleton
-[19:43:37] [Server thread/INFO]: [Tridentblade09: Summoned new Wither Skeleton]
-[19:43:43] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:wither_skeleton
-[19:43:43] [Server thread/INFO]: [Tridentblade09: Summoned new Wither Skeleton]
-[19:45:14] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
-[19:45:14] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
-[19:45:52] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:birch_sign
-[19:45:52] [Server thread/INFO]: [Tridentblade09: Gave 1 [Birch Sign] to Tridentblade09]
-[19:47:45] [Server thread/INFO]: Tridentblade09 lost connection: Disconnected
-[19:47:45] [Server thread/INFO]: Tridentblade09 left the game
+[12:24:41] [User Authenticator #29/INFO]: UUID of player Tridentblade09 is f6001e97-76b8-3898-907a-539629420be9
+[12:24:42] [Server thread/INFO]: Tridentblade09 joined the game
+[12:24:42] [Server thread/INFO]: Tridentblade09[/106.215.93.100:12332] logged in with entity id 438958 at ([world]40.56150974867692, 64.0, -24.69794376987252)
+[12:27:22] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[12:27:22] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[12:30:33] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[12:30:33] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[12:31:43] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[12:31:43] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[12:33:26] [User Authenticator #30/INFO]: UUID of player sallu_bhaiyaboo is d4e22130-6fd3-3583-84c5-7329f873efec
+[12:33:27] [Server thread/INFO]: sallu_bhaiyaboo joined the game
+[12:33:27] [Server thread/INFO]: sallu_bhaiyaboo[/106.215.93.100:26145] logged in with entity id 440835 at ([world]45.95932137293947, 84.5, -21.296327567662644)
+[12:33:38] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[12:33:38] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[12:33:51] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 rail 20
+[12:33:51] [Server thread/INFO]: [Tridentblade09: Gave 20 [Rail] to Tridentblade09]
+[12:34:15] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:powered_rail 20
+[12:34:15] [Server thread/INFO]: [Tridentblade09: Gave 20 [Powered Rail] to Tridentblade09]
+[12:34:39] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 lever 2
+[12:34:39] [Server thread/INFO]: [Tridentblade09: Gave 2 [Lever] to Tridentblade09]
+[12:35:06] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:white_wool
+[12:35:06] [Server thread/INFO]: [Tridentblade09: Gave 1 [White Wool] to Tridentblade09]
+[12:36:56] [Async Chat Thread - #34/INFO]: [Not Secure] <Tridentblade09> cum here
+[12:37:03] [Async Chat Thread - #35/INFO]: [Not Secure] <sallu_bhaiyaboo> hmm
+[12:38:00] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 rail 20
+[12:38:00] [Server thread/INFO]: [Tridentblade09: Gave 20 [Rail] to Tridentblade09]
+[12:38:56] [Server thread/INFO]: Villager Villager['Villager'/429642, uuid='67f70c62-4222-4c66-9623-322b0f4189bd', l='ServerLevel[world]', x=79.30, y=66.05, z=-26.19, cpos=[4, -2], tl=55323, v=true] died, message: 'Villager was squished too much'
+[12:42:36] [Server thread/INFO]: sallu_bhaiyaboo lost connection: Disconnected
+[12:42:36] [Server thread/INFO]: sallu_bhaiyaboo left the game
+[12:43:26] [Server thread/INFO]: Tridentblade09 lost connection: Disconnected
+[12:43:26] [Server thread/INFO]: Tridentblade09 left the game
+[12:43:27] [User Authenticator #31/INFO]: UUID of player Tridentblade09 is f6001e97-76b8-3898-907a-539629420be9
+[12:43:28] [Server thread/INFO]: Tridentblade09 joined the game
+[12:43:28] [Server thread/INFO]: Tridentblade09[/106.215.93.100:6897] logged in with entity id 442730 at ([world_nether]208.30000001192093, 57.0, 169.69999998807907)
+[12:43:43] [Server thread/INFO]: Tridentblade09 issued server command: /effect give sallu_bhaiyaboo minecraft:fire_resistance infinite
+[12:44:40] [User Authenticator #32/INFO]: UUID of player sallu_bhaiyaboo is d4e22130-6fd3-3583-84c5-7329f873efec
+[12:44:41] [Server thread/INFO]: sallu_bhaiyaboo joined the game
+[12:44:41] [Server thread/INFO]: sallu_bhaiyaboo[/106.215.93.100:2257] logged in with entity id 442816 at ([world_nether]236.71871281495646, 26.83186429854392, 151.31770209642872)
+[12:44:42] [Server thread/INFO]: Tridentblade09 issued server command: /effect give sallu_bhaiyaboo minecraft:fire_resistance infinite
+[12:44:42] [Server thread/INFO]: [Tridentblade09: Applied effect Fire Resistance to sallu_bhaiyaboo]
+[12:53:48] [Server thread/INFO]: sallu_bhaiyaboo has made the advancement [Take Aim]
+[13:00:57] [Server thread/INFO]: Tridentblade09 issued server command: /weather thunder
+[13:00:57] [Server thread/INFO]: [Tridentblade09: Set the weather to rain & thunder]
+[13:03:44] [Server thread/INFO]: Villager Villager['Villager'/425223, uuid='061161c2-02ea-4878-83d9-242edb395bc9', l='ServerLevel[world]', x=79.70, y=66.05, z=-26.16, cpos=[4, -2], tl=100767, v=true] died, message: 'Villager was squished too much'
+[13:04:26] [Server thread/INFO]: Tridentblade09 was shot by Skeleton
+[13:16:44] [Server thread/INFO]: Tridentblade09 has made the advancement [Spooky Scary Skeleton]
+[13:22:06] [Server thread/INFO]: Tridentblade09 was slain by Wither Skeleton
+[13:22:28] [Server thread/INFO]: Tridentblade09 was slain by Wither Skeleton
+[13:24:05] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode spectator
+[13:24:05] [Server thread/INFO]: [Tridentblade09: Set own game mode to Spectator Mode]
+[13:24:13] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[13:24:13] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[13:24:44] [Server thread/INFO]: Villager Villager['Villager'/420305, uuid='69af5111-1bae-48ca-ac75-a5e3f5f24ab9', l='ServerLevel[world]', x=79.30, y=66.05, z=-26.10, cpos=[4, -2], tl=158607, v=true] died, message: 'Villager was squished too much'
+[13:30:11] [Server thread/INFO]: Tridentblade09 issued server command: /weather thunder
+[13:30:11] [Server thread/INFO]: [Tridentblade09: Set the weather to rain & thunder]
+[13:33:11] [Server thread/INFO]: sallu_bhaiyaboo has made the advancement [Spooky Scary Skeleton]
+[13:34:08] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:creeper 45 62 -83
+[13:34:08] [Server thread/INFO]: [Tridentblade09: Summoned new Creeper]
+[13:35:53] [Server thread/INFO]: Tridentblade09 issued server command: /effect give Tridentblade09 minecraft:fire_resistance infinite
+[13:35:53] [Server thread/INFO]: [Tridentblade09: Applied effect Fire Resistance to Tridentblade09]
+[13:47:24] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:acacia_trapdoor 2
+[13:47:24] [Server thread/INFO]: [Tridentblade09: Gave 2 [Acacia Trapdoor] to Tridentblade09]
+[13:51:16] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:creeper 45.57 63.00 -82.91
+[13:51:16] [Server thread/INFO]: [Tridentblade09: Summoned new Creeper]
+[13:51:34] [Server thread/INFO]: Tridentblade09 issued server command: /weather thunder
+[13:51:34] [Server thread/INFO]: [Tridentblade09: Set the weather to rain & thunder]
+[13:56:02] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:drowned
+[13:56:02] [Server thread/INFO]: [Tridentblade09: Summoned new Drowned]
+[13:56:31] [Server thread/INFO]: Tridentblade09 has made the advancement [Fishy Business]
+[13:57:59] [Server thread/INFO]: sallu_bhaiyaboo was shot by Skeleton
+[13:58:17] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:creeper 45.57 63.00 -82.91
+[13:58:17] [Server thread/INFO]: [Tridentblade09: Summoned new Creeper]
+[13:58:55] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:creeper 45.57 63.00 -82.91
+[13:58:55] [Server thread/INFO]: [Tridentblade09: Summoned new Creeper]
+[14:01:20] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:wither_skeleton
+[14:01:20] [Server thread/INFO]: [Tridentblade09: Summoned new Wither Skeleton]
+[14:02:45] [Server thread/INFO]: Villager Villager['Villager'/446025, uuid='9506a1c5-78e0-4577-8f6f-26450df5a3cc', l='ServerLevel[world]', x=79.58, y=66.05, z=-26.15, cpos=[4, -2], tl=63582, v=true] died, message: 'Villager was squished too much'
+[14:03:11] [Server thread/INFO]: Villager Villager['Villager'/449088, uuid='9d6bf469-a841-4ec4-b73d-4fadf72ef6fd', l='ServerLevel[world]', x=79.30, y=66.05, z=-26.10, cpos=[4, -2], tl=40054, v=true] died, message: 'Villager was squished too much'
+[14:05:36] [Server thread/INFO]: sallu_bhaiyaboo was slain by Wither Skeleton
+[14:07:11] [Server thread/INFO]: Tridentblade09 issued server command: /weather thunder
+[14:07:11] [Server thread/INFO]: [Tridentblade09: Set the weather to rain & thunder]
+[14:10:14] [Server thread/INFO]: Tridentblade09 issued server command: /summon minecraft:creeper 44.59 74.00 -117.51
+[14:10:14] [Server thread/INFO]: [Tridentblade09: Summoned new Creeper]
+[14:15:23] [Server thread/INFO]: Tridentblade09 lost connection: Disconnected
+[14:15:23] [Server thread/INFO]: Tridentblade09 left the game
+[14:21:58] [User Authenticator #33/INFO]: UUID of player Tridentblade09 is f6001e97-76b8-3898-907a-539629420be9
+[14:21:59] [Server thread/INFO]: Tridentblade09 joined the game
+[14:21:59] [Server thread/INFO]: Tridentblade09[/106.215.93.100:1267] logged in with entity id 463008 at ([world]48.803532611748054, 63.9375, -14.49984612925568)
+[14:22:35] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:soul_sand 4
+[14:22:35] [Server thread/INFO]: [Tridentblade09: Gave 4 [Soul Sand] to Tridentblade09]
+[14:26:26] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[14:26:26] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[14:29:54] [Server thread/INFO]: Tridentblade09 has made the advancement [Withering Heights]
+[14:29:54] [Server thread/INFO]: sallu_bhaiyaboo has made the advancement [Withering Heights]
+[14:31:33] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
+[14:31:33] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
+[14:32:21] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 73 72 5 minecraft:crafting_table
+[14:32:21] [Server thread/INFO]: [Tridentblade09: Changed the block at 73, 72, 5]
+[14:35:53] [Server thread/INFO]: Villager Villager['Villager'/454527, uuid='5ec5d62e-991f-4b97-9de7-807a27ede556', l='ServerLevel[world]', x=79.59, y=66.05, z=-26.20, cpos=[4, -2], tl=46051, v=true] died, message: 'Villager was squished too much'
+[14:36:58] [Server thread/INFO]: sallu_bhaiyaboo drowned
+[14:39:17] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
+[14:39:17] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
+[14:42:00] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:iron_block 20
+[14:42:00] [Server thread/INFO]: [Tridentblade09: Gave 20 [Block of Iron] to Tridentblade09]
+[14:42:16] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:iron_block 10
+[14:42:16] [Server thread/INFO]: [Tridentblade09: Gave 10 [Block of Iron] to Tridentblade09]
+[14:43:59] [Async Chat Thread - #36/INFO]: [Not Secure] <Tridentblade09> w
+[14:43:59] [Async Chat Thread - #36/INFO]: [Not Secure] <Tridentblade09> afg
+[14:44:00] [Async Chat Thread - #36/INFO]: [Not Secure] <Tridentblade09> fg
+[14:44:06] [Async Chat Thread - #37/INFO]: [Not Secure] <Tridentblade09> sdfghbsdfhgsdfghsdghbsdghbsdtghserdthsdfghsdghsdghsdfghsdfghsdfghsdghsdghsdtghsdghsdghsdgh
+[14:46:16] [Server thread/INFO]: Tridentblade09 has reached the goal [Beaconator]
+[14:46:16] [Server thread/INFO]: Tridentblade09 has made the advancement [Bring Home the Beacon]
+[14:47:24] [Server thread/INFO]: sallu_bhaiyaboo has reached the goal [Beaconator]
+[14:47:24] [Server thread/INFO]: sallu_bhaiyaboo has made the advancement [Bring Home the Beacon]
+[14:52:27] [Server thread/INFO]: Villager Villager['Villager'/431834, uuid='08aaf40f-b898-4b85-8506-639f9bd17004', l='ServerLevel[world]', x=79.70, y=66.05, z=-26.12, cpos=[4, -2], tl=170943, v=true] died, message: 'Villager was squished too much'
+[14:55:36] [Async Chat Thread - #38/INFO]: [Not Secure] <Tridentblade09> sdertghd
+[14:55:36] [Async Chat Thread - #38/INFO]: [Not Secure] <Tridentblade09> hehd
+[14:55:37] [Async Chat Thread - #38/INFO]: [Not Secure] <Tridentblade09> hbr
+[14:55:37] [Async Chat Thread - #38/INFO]: [Not Secure] <Tridentblade09> jrb
+[14:55:38] [Async Chat Thread - #38/INFO]: [Not Secure] <Tridentblade09> dfhsegnb
+[14:55:39] [Async Chat Thread - #38/INFO]: [Not Secure] <Tridentblade09> hjhcjnjsn
+[14:55:39] [Async Chat Thread - #38/INFO]: [Not Secure] <Tridentblade09> r
+[15:02:27] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:bone_meal 20
+[15:02:27] [Server thread/INFO]: [Tridentblade09: Gave 20 [Bone Meal] to Tridentblade09]
+[15:06:36] [Server thread/INFO]: Tridentblade09 issued server command: /time query day
+[15:06:53] [Server thread/INFO]: Tridentblade09 issued server command: /time query daytime
+[15:07:00] [Server thread/INFO]: Tridentblade09 issued server command: /time query day
+[15:12:40] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[15:12:40] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[15:13:09] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[15:13:09] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[15:28:11] [Server thread/INFO]: Tridentblade09 has made the advancement [Bukkit Bukkit]
+[15:30:51] [Async Chat Thread - #40/INFO]: [Not Secure] <Tridentblade09> b
+[15:31:22] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[15:31:22] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[15:33:53] [Server thread/INFO]: sallu_bhaiyaboo fell from a high place
+[15:34:04] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
+[15:34:04] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
+[15:34:07] [Server thread/INFO]: sallu_bhaiyaboo fell from a high place
+[15:34:13] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
+[15:34:13] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
+[15:38:51] [Server thread/INFO]: Tridentblade09 issued server command: /effect give sallu_bhaiyaboo minecraft:fire_resistance infinite
+[15:38:51] [Server thread/INFO]: [Tridentblade09: Applied effect Fire Resistance to sallu_bhaiyaboo]
+[15:47:14] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode spectator
+[15:47:14] [Server thread/INFO]: [Tridentblade09: Set own game mode to Spectator Mode]
+[15:48:14] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[15:48:14] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[15:49:14] [Server thread/INFO]: Tridentblade09 issued server command: /tp @e[type=minecraft:camel] Tridentblade09
+[15:49:14] [Server thread/INFO]: [Tridentblade09: Teleported 3 entities to Tridentblade09]
+[15:58:09] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo -2800 400 678
+[15:58:09] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to -2799.500000, 400.000000, 678.500000]
+[16:00:25] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:birch_sign 10
+[16:00:25] [Server thread/INFO]: [Tridentblade09: Gave 10 [Birch Sign] to Tridentblade09]
+[16:01:46] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 81 71 5 minecraft:white_concrete
+[16:01:46] [Server thread/INFO]: [Tridentblade09: Changed the block at 81, 71, 5]
+[16:02:01] [Server thread/INFO]: Tridentblade09 issued server command: /setblock 80 72 5 minecraft:black_carpet
+[16:02:01] [Server thread/INFO]: [Tridentblade09: Changed the block at 80, 72, 5]
+[16:02:48] [Server thread/INFO]: Villager Villager['Villager'/473200, uuid='de4104bf-c1d0-4f3a-92e7-09272fb9f07e', l='ServerLevel[world]', x=79.30, y=66.05, z=-26.20, cpos=[4, -2], tl=42692, v=true] died, message: 'Villager was squished too much'
+[16:03:53] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[16:03:53] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[16:07:30] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode spectator
+[16:07:30] [Server thread/INFO]: [Tridentblade09: Set own game mode to Spectator Mode]
+[16:07:42] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[16:07:42] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[16:08:50] [Server thread/INFO]: Villager Villager['Nitwit'/501920, uuid='e95b7fb6-3da5-4e26-9cea-ae9f491557bb', l='ServerLevel[world]', x=-2310.50, y=75.92, z=668.27, cpos=[-145, 41], tl=10870, v=true] died, message: 'Nitwit was slain by Tridentblade09'
+[16:08:53] [Server thread/INFO]: Villager Villager['Villager'/502014, uuid='72ff22f6-62be-41db-8cfb-f867e4dc9a97', l='ServerLevel[world]', x=-2313.57, y=76.25, z=664.23, cpos=[-145, 41], tl=10751, v=true] died, message: 'Villager was slain by Tridentblade09'
+[16:09:52] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[16:09:52] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[16:10:28] [Server thread/INFO]: Tridentblade09 issued server command: /tp 0 100 0
+[16:10:28] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to 0.500000, 100.000000, 0.500000]
+[16:11:48] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:birch_sign 10
+[16:11:48] [Server thread/INFO]: [Tridentblade09: Gave 10 [Birch Sign] to Tridentblade09]
+[16:15:29] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[16:15:29] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[16:15:52] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[16:15:52] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[16:16:37] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:birch_sign 10
+[16:16:37] [Server thread/INFO]: [Tridentblade09: Gave 10 [Birch Sign] to Tridentblade09]
+[16:17:29] [Server thread/INFO]: Tridentblade09 issued server command: /locate biome minecraft:ice_spikes
+[16:17:39] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-99-f1f01a1 (MC: 1.21) ---
+[16:17:39] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[16:17:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:17:39] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[16:17:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:17:39] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[16:17:39] [Paper Watchdog Thread/ERROR]: 	PID: 35 | Suspended: false | Native: false | State: RUNNABLE
+[16:17:39] [Paper Watchdog Thread/ERROR]: 	Stack:
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.synth.PerlinNoise.getValue(PerlinNoise.java:150)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.synth.PerlinNoise.getValue(PerlinNoise.java:141)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.synth.NormalNoise.getValue(NormalNoise.java:79)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.DensityFunction$NoiseHolder.getValue(DensityFunction.java:89)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.DensityFunctions$ShiftNoise.compute(DensityFunctions.java:1000)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.DensityFunctions$ShiftB.compute(DensityFunctions.java:972)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.DensityFunctions$ShiftedNoise.compute(DensityFunctions.java:1029)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.biome.Climate$Sampler.sample(Climate.java:492)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.biome.MultiNoiseBiomeSource.getNoiseBiome(MultiNoiseBiomeSource.java:61)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.biome.BiomeSource.findClosestBiome3d(BiomeSource.java:102)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.findClosestBiome3d(ServerLevel.java:1985)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.commands.LocateCommand.locateBiome(LocateCommand.java:123)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.commands.LocateCommand.lambda$register$6(LocateCommand.java:77)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.commands.LocateCommand$$Lambda/0x00007f4d6cbc4c60.run(Unknown Source)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.execution.UnboundEntryAction$$Lambda/0x00007f4d6d983d68.execute(Unknown Source)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:350)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:337)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:332)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl$$Lambda/0x00007f4d6d986c10.run(Unknown Source)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1532)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1509)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1502)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1461)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1468)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1313)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007f4d6cc52f98.run(Unknown Source)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[16:17:39] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[16:17:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:17:39] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[16:17:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:17:43] [Server thread/INFO]: Locating element minecraft:ice_spikes took 14258 ms
+[16:17:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14238ms or 284 ticks behind
+[16:18:09] [Server thread/INFO]: Villager Villager['Villager'/461942, uuid='26889b5f-8566-4ea9-930d-02f07bfcc49b', l='ServerLevel[world]', x=79.30, y=66.05, z=-26.15, cpos=[4, -2], tl=85711, v=true] died, message: 'Villager was squished too much'
+[16:18:15] [Async Chat Thread - #42/INFO]: [Not Secure] <Tridentblade09> 5639 72 -4348
+[16:19:06] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[16:19:06] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[16:19:36] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[16:19:36] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[16:20:01] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[16:20:01] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[16:28:07] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[16:28:07] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[16:49:12] [Server thread/INFO]: Villager Villager['Villager'/69, uuid='4465b8d3-8043-4d48-b9b5-9fa9de45a6ba', l='ServerLevel[world]', x=79.70, y=66.02, z=-26.70, cpos=[4, -2], tl=1947103, v=true] died, message: 'Villager was squished too much'
+[16:52:01] [Server thread/INFO]: sallu_bhaiyaboo lost connection: Disconnected
+[16:52:01] [Server thread/INFO]: sallu_bhaiyaboo left the game
+[16:52:34] [User Authenticator #34/INFO]: UUID of player sallu_bhaiyaboo is d4e22130-6fd3-3583-84c5-7329f873efec
+[16:52:35] [Server thread/INFO]: sallu_bhaiyaboo joined the game
+[16:52:35] [Server thread/INFO]: sallu_bhaiyaboo[/106.215.93.100:3761] logged in with entity id 526646 at ([world]-1142.699999988079, 44.28322275739825, -1191.665145766694)
+[16:52:35] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
+[16:52:35] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
+[16:53:50] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo 1000 300 -600
+[16:53:50] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to 1000.500000, 300.000000, -599.500000]
+[16:57:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
+[16:58:09] [Server thread/INFO]: sallu_bhaiyaboo lost connection: Disconnected
+[16:58:09] [Server thread/INFO]: sallu_bhaiyaboo left the game
+[16:58:22] [User Authenticator #35/INFO]: UUID of player sallu_bhaiyaboo is d4e22130-6fd3-3583-84c5-7329f873efec
+[16:58:23] [Server thread/INFO]: sallu_bhaiyaboo joined the game
+[16:58:23] [Server thread/INFO]: sallu_bhaiyaboo[/106.215.93.100:6234] logged in with entity id 530277 at ([world]2165.358705774725, 51.000903171969725, -1233.017467292508)
+[17:12:32] [Server thread/INFO]: sallu_bhaiyaboo fell from a high place
+[17:13:53] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo 1839 400 -1288
+[17:13:53] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to 1839.500000, 400.000000, -1287.500000]
+[17:14:39] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
+[17:14:39] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
+[17:14:57] [Server thread/INFO]: Tridentblade09 issued server command: /give Tridentblade09 minecraft:recovery_compass
+[17:14:57] [Server thread/INFO]: [Tridentblade09: Gave 1 [Recovery Compass] to Tridentblade09]
+[17:15:24] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo 1839 400 -1288
+[17:15:24] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to 1839.500000, 400.000000, -1287.500000]
+[17:17:40] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
+[17:17:40] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
+[17:17:41] [Server thread/INFO]: Villager Villager['Villager'/504533, uuid='9c626535-97c3-4ed5-9cba-8d4a0fd870b5', l='ServerLevel[world]', x=79.42, y=66.05, z=-26.17, cpos=[4, -2], tl=80303, v=true] died, message: 'Villager was squished too much'
+[17:26:37] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo 1339 300 1488
+[17:26:37] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to 1339.500000, 300.000000, 1488.500000]
+[17:26:45] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo 1339 300 -1488
+[17:26:45] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to 1339.500000, 300.000000, -1487.500000]
+[17:29:17] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[17:29:17] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[17:30:11] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[17:30:11] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[17:32:16] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[17:32:16] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[17:33:59] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[17:33:59] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[17:37:03] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[17:37:03] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[17:38:12] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[17:38:12] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[17:44:56] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
+[17:44:56] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
+[17:45:43] [Server thread/INFO]: Tridentblade09 issued server command: /locate structure minecraft:village_plains
+[17:45:43] [Server thread/INFO]: Locating element minecraft:village_plains took 0 ms
+[17:45:56] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[17:45:56] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[17:47:41] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[17:47:41] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[17:51:01] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[17:51:01] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[17:56:42] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[17:56:42] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[17:58:33] [Server thread/INFO]: sallu_bhaiyaboo fell from a high place
+[17:58:44] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
+[17:58:44] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
+[18:03:54] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[18:03:54] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[18:09:54] [Async Chat Thread - #44/INFO]: [Not Secure] <Tridentblade09> -1617 93 -1297
+[18:13:13] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode spectator
+[18:13:13] [Server thread/INFO]: [Tridentblade09: Set own game mode to Spectator Mode]
+[18:13:45] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[18:13:45] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[18:20:06] [Server thread/INFO]: sallu_bhaiyaboo was blown up by Creeper
+[18:20:15] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
+[18:20:15] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
+[18:38:46] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode spectator
+[18:38:46] [Server thread/INFO]: [Tridentblade09: Set own game mode to Spectator Mode]
+[18:38:51] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[18:38:51] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[18:39:10] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo Tridentblade09
+[18:39:10] [Server thread/INFO]: [Tridentblade09: Teleported sallu_bhaiyaboo to Tridentblade09]
+[18:40:34] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode spectator
+[18:40:34] [Server thread/INFO]: [Tridentblade09: Set own game mode to Spectator Mode]
+[18:40:41] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[18:40:41] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[18:41:24] [Server thread/INFO]: Tridentblade09 issued server command: /tp c005c4e4-9733-48e8-9f66-0a403d703e7b Tridentblade09
+[18:41:24] [Server thread/INFO]: [Tridentblade09: Teleported Farmer to Tridentblade09]
+[18:41:43] [Server thread/INFO]: Tridentblade09 issued server command: /tp c005c4e4-9733-48e8-9f66-0a403d703e7b Tridentblade09
+[18:41:43] [Server thread/INFO]: [Tridentblade09: Teleported Farmer to Tridentblade09]
+[18:41:56] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode spectator
+[18:41:56] [Server thread/INFO]: [Tridentblade09: Set own game mode to Spectator Mode]
+[18:42:05] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[18:42:05] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[18:43:15] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode spectator
+[18:43:15] [Server thread/INFO]: [Tridentblade09: Set own game mode to Spectator Mode]
+[18:43:22] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[18:43:22] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[18:43:29] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode spectator
+[18:43:29] [Server thread/INFO]: [Tridentblade09: Set own game mode to Spectator Mode]
+[18:43:32] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode creative
+[18:43:32] [Server thread/INFO]: [Tridentblade09: Set own game mode to Creative Mode]
+[18:43:44] [Server thread/INFO]: Tridentblade09 issued server command: /gamemode survival
+[18:43:44] [Server thread/INFO]: [Tridentblade09: Set own game mode to Survival Mode]
+[18:43:48] [Server thread/INFO]: Tridentblade09 issued server command: /tp sallu_bhaiyaboo
+[18:43:48] [Server thread/INFO]: [Tridentblade09: Teleported Tridentblade09 to sallu_bhaiyaboo]
+[18:48:17] [Server thread/INFO]: sallu_bhaiyaboo lost connection: Disconnected
+[18:48:17] [Server thread/INFO]: sallu_bhaiyaboo left the game
+[18:49:10] [Server thread/INFO]: Tridentblade09 lost connection: Disconnected
+[18:49:10] [Server thread/INFO]: Tridentblade09 left the game
+[19:40:25] [Server console handler/ERROR]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Input/output error
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468) ~[jline-reader-3.20.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:117) ~[paper-1.21.jar:1.21-99-f1f01a1]
+Caused by: java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.read0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:231) ~[?:?]
+	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160) ~[jline-reader-3.20.0.jar:?]
+	... 9 more
+[19:40:25] [Server thread/INFO]: Stopping server
+[19:40:25] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.0-SNAPSHOT
+[19:40:25] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[19:40:25] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[19:40:25] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[19:40:25] [WebSocketConnectReadThread-3126/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[19:40:25] [Server thread/INFO]: Saving players
+[19:40:25] [Server thread/INFO]: Saving worlds
+[19:40:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:40:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[19:40:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[19:40:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[19:40:25] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 113 entity chunks, 0 poi chunks in world 'world' in 0.16s
+[19:40:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:40:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[19:40:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[19:40:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[19:40:28] [Server thread/INFO]: [ChunkHolderManager] Saved 31 block chunks, 190 entity chunks, 0 poi chunks in world 'world_nether' in 0.11s
+[19:40:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:40:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[19:40:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[19:40:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[19:40:28] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 46 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
+[19:40:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:40:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:40:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:40:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
